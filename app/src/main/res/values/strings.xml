@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Controle de Estoque</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_pesquisar">Pesquisar</string>
+    <string name="item_label">Componente</string>
+    <string name="specificItem">Especificação do Componente</string>
+</resources>
